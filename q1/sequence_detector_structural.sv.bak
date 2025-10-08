@@ -21,8 +21,8 @@ module sequence_detector_structural (
     end
 
         assign d2 = (input_sequence & q2) | (input_sequence & q1 & q0);
-        assign d1 = input_sequence & (q1 ^ q0);
-        assign d0 = input_sequence & ~(q2) & ~(q0);
+        assign d1 = (input_sequence & q1 & ~q0) | (input_sequence & ~q2 & ~q1 & q0);
+        assign d0 = (input_sequence & ~q2 & ~q0) | (input_sequence & q2);
         assign detected = input_sequence & q2;
 
 endmodule

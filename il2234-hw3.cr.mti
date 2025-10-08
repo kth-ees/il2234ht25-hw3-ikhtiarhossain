@@ -1,0 +1,15 @@
+/home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module sequence_detector_structural
+
+Top level modules:
+	sequence_detector_structural
+
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module sequence_detector_tb
+
+Top level modules:
+	sequence_detector_tb
+
+} {} {}}

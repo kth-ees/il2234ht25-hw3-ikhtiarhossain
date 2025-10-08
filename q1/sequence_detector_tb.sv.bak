@@ -40,12 +40,6 @@ module sequence_detector_tb;
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 0;
-
-        @(negedge clk); input_sequence = 1;
-        @(negedge clk); input_sequence = 1;
-        @(negedge clk); input_sequence = 1;
-        @(negedge clk); input_sequence = 1;
-        @(negedge clk); input_sequence = 0;
         
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 1;
@@ -54,6 +48,15 @@ module sequence_detector_tb;
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 0;
 
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 1;
+        @(negedge clk); input_sequence = 0;
+
+        @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 1;
         @(negedge clk); input_sequence = 1;
