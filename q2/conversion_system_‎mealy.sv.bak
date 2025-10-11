@@ -13,14 +13,12 @@ module conversion_system_mealy (
     logic z_comb;
 
     always_ff @(posedge clk or negedge rst_n) begin
-        if (!rst_n) begin
+        if (!rst_n)
             present_state <= S0;
             z <= 1;
-        end
-        else begin
+        else
             present_state <= next_state;
-            z <= z_comb; 
-        end
+            z <= z_comb;
     end
 
     always_comb begin
