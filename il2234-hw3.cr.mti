@@ -1,4 +1,11 @@
-/home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv
+/home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module conversion_system_mealy
+
+Top level modules:
+	conversion_system_mealy
+
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 -- Compiling module sequence_detector_structural
 
