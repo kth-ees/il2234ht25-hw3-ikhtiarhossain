@@ -1,9 +1,9 @@
-/home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv
+/home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_behavioral.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_behavioral.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
--- Compiling module conversion_system_mealy
+-- Compiling module sequence_detector_behavioral
 
 Top level modules:
-	conversion_system_mealy
+	sequence_detector_behavioral
 
 } {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calc_datapath.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calc_datapath.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
@@ -12,19 +12,12 @@ QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 Top level modules:
 	average_calc_datapath
 
-} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_behavioral.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_behavioral.sv
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
--- Compiling module sequence_detector_behavioral
+-- Compiling module sequence_detector_tb
 
 Top level modules:
-	sequence_detector_behavioral
-
-} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv
-QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
--- Compiling module sequence_detector_structural
-
-Top level modules:
-	sequence_detector_structural
+	sequence_detector_tb
 
 } {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calculator.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calculator.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
@@ -33,6 +26,13 @@ QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 Top level modules:
 	average_calculator
 
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎mealy.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module conversion_system_mealy
+
+Top level modules:
+	conversion_system_mealy
+
 } {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calc_controller.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calc_controller.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 -- Compiling module average_calc_controller
@@ -40,19 +40,11 @@ QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 Top level modules:
 	average_calc_controller
 
-} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_tb.sv
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv {0 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
--- Compiling module sequence_detector_tb
-
-Top level modules:
-	sequence_detector_tb
-
-} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎moore.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎moore.sv
-QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
--- Compiling module conversion_system_moore
-
-Top level modules:
-	conversion_system_moore
+-- Compiling module sin_datapath
+** Error (suppressible): /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv(91): (vlog-7033) Variable 'prod_tmp' driven in a combinational block, may not be driven by any other process. See /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv(56).
+** Error (suppressible): /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv(92): (vlog-7033) Variable 'prod_shifted' driven in a combinational block, may not be driven by any other process. See /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_datapath.sv(57).
 
 } {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calculator_tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q4/average_calculator_tb.sv
 QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
@@ -67,5 +59,26 @@ QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
 
 Top level modules:
 	conversion_system_tb
+
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q1/sequence_detector_structural.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module sequence_detector_structural
+
+Top level modules:
+	sequence_detector_structural
+
+} {} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_tb.sv {0 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_tb.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module sin_tb
+** Warning: /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_tb.sv(54): (vlog-2244) Variable 'pi' is implicitly static. You must either explicitly declare it as static or automatic
+or remove the initialization in the declaration of variable.
+** Error: /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q5/sin_tb.sv(56): Illegal declaration after the statement near line '51'.  Declarations must precede statements.  Look for stray semicolons.
+
+} {6.0 7.0} {}} /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎moore.sv {1 {vlog -work work -vopt -sv -stats=none /home/ikhtiar/github-classroom/kth-ees/il2234ht25-hw3-ikhtiarhossain/q2/conversion_system_‎moore.sv
+QuestaSim-64 vlog 2022.4 Compiler 2022.10 Oct 18 2022
+-- Compiling module conversion_system_moore
+
+Top level modules:
+	conversion_system_moore
 
 } {} {}}
